@@ -720,7 +720,7 @@ Happy learning! 🚀
 
 ---
 
-*Last updated: January 2024 | Resources: 500+ | Contributors: Community-driven*
+*Last updated: July 2025 | Resources: 500+ | Contributors: Community-driven*
 
 [![GitHub stars](https://img.shields.io/badge/⭐-Star%20this%20guide-yellow?style=for-the-badge)](https://github.com/amarjaleelbanbhan/cs_learning_websites)
 [![Share](https://img.shields.io/badge/🔗-Share%20with%20friends-blue?style=for-the-badge)](https://github.com/amarjaleelbanbhan/cs_learning_websites)
